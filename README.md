@@ -3,7 +3,7 @@
 This is simple server client app that can communicate via TCP protocol.
 
 ## Getting started
-First, you need to clone this repository: `git clone https://github.com/RostyslavRomanets/client-server`.
+First, you need to clone this repository: `git clone https://github.com/RostyslavRomanets/client_server`.
 
 ### Building for Linux
 - Run CMake and build the project.
